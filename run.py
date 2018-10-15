@@ -26,45 +26,4 @@ async def echo(*args):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-client.run(TOKEN)
+client.run(config.token)
