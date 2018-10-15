@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'NDg5Nzg4MDQxNTg2ODAyNjg4.DoQHcw.2fowZDgciJL3PTu2kTTF2vxrky4'
+
 
 client=commands.Bot(command_prefix = 'alexa ')
 
